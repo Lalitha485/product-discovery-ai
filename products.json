@@ -1,0 +1,42 @@
+[
+  {
+    "id": "P001",
+    "name": "Gaming Laptop Pro",
+    "category": "Electronics",
+    "price": 1200,
+    "description": "High performance laptop for gaming",
+    "tags": ["gaming", "laptop"]
+  },
+  {
+    "id": "P002",
+    "name": "Budget Student Laptop",
+    "category": "Electronics",
+    "price": 500,
+    "description": "Affordable laptop for students",
+    "tags": ["budget", "student"]
+  },
+  {
+    "id": "P003",
+    "name": "Wireless Headphones",
+    "category": "Accessories",
+    "price": 150,
+    "description": "Noise cancelling headphones",
+    "tags": ["audio"]
+  },
+  {
+    "id": "P004",
+    "name": "Office Chair",
+    "category": "Furniture",
+    "price": 200,
+    "description": "Ergonomic office chair",
+    "tags": ["comfort"]
+  },
+  {
+    "id": "P005",
+    "name": "Gaming Mouse",
+    "category": "Accessories",
+    "price": 80,
+    "description": "High precision gaming mouse",
+    "tags": ["gaming"]
+  }
+]
