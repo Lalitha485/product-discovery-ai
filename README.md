@@ -1,4 +1,4 @@
-# Discvrai Product Discovery (AI Powered)
+# Product Discovery (AI Powered)
 
 ## Project Structure
 
